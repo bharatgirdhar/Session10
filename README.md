@@ -20,4 +20,4 @@
 
 
 ### K=3,4,5,6 BBOX Shape
-![K=3,4,5,6 BBOX Shape](/graph/bbox.jpg)
+![K=3,4,5,6 BBOX Shape](/graph/bboxes.jpg)
