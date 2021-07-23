@@ -17,3 +17,7 @@
 
 ### K=6 Graph
 ![K=6](/graph/k_6.png)
+
+
+### K=3,4,5,6 BBOX Shape
+![K=3,4,5,6 BBOX Shape](/graph/bbox.jpg)
